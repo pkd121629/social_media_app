@@ -1,6 +1,7 @@
-# Social Media App
+# D-Seva
 
-This project is a full-fledged social media application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The app allows users to register, create profiles, post updates, like and comment on posts, and interact with other users.
+Developed a common platform for fundraising for the needy using the MERN stack, featuring secure access controls. Users have the ability to register for a new account, log in, add friends to their network, and engage with posts by liking,
+commenting and donating.
 
 # Technology
 - **FrontEnd:** React.js, Redux, Material-UI for responsive design and state management.
